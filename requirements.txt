@@ -3,4 +3,5 @@ bs4
 pandas
 textblob
 spacy
-spellchecker
+pyspellchecker
+nlpaug
