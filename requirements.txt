@@ -5,3 +5,5 @@ textblob
 spacy
 pyspellchecker
 nlpaug
+googlesearch-python
+beautifulsoup4
