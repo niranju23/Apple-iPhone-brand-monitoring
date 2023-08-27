@@ -7,3 +7,5 @@ pyspellchecker
 nlpaug
 googlesearch-python
 beautifulsoup4
+gensim
+scikit-learn
