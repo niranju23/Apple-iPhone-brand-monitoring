@@ -9,3 +9,6 @@ googlesearch-python
 beautifulsoup4
 gensim
 scikit-learn
+openpyxl
+plotly
+jupyter
